@@ -18,13 +18,13 @@ yarn run lerna publish from-package --dist-tag canary --no-git-reset --no-verify
 ### Testing
 
 ```sh 
-yarn workspace @sushiswap/core-sdk test
+yarn workspace @exoda/core-sdk test
 ```
 
 ### Build
 
 ```sh 
-yarn workspace @sushiswap/core-sdk build
+yarn workspace @exoda/core-sdk build
 ```
 
 ## Limit Order SDK

@@ -1,4 +1,4 @@
-import { Percent, CurrencyAmount, Currency, validateAndParseAddress, TradeType } from '@sushiswap/core-sdk'
+import { Percent, CurrencyAmount, Currency, validateAndParseAddress, TradeType } from '@exoda/core-sdk'
 import { Trade } from './entities/Trade'
 import invariant from 'tiny-invariant'
 import { RouteLeg } from '@sushiswap/tines'

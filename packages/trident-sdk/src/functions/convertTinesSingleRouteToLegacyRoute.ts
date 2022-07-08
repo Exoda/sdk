@@ -1,4 +1,4 @@
-import { Currency, Pair, Route } from '@sushiswap/core-sdk'
+import { Currency, Pair, Route } from '@exoda/core-sdk'
 import {
 
   MultiRoute,

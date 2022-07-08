@@ -1,5 +1,5 @@
 import { BigNumber } from '@ethersproject/bignumber'
-import { Pair, Token } from '@sushiswap/core-sdk'
+import { Pair, Token } from '@exoda/core-sdk'
 import { MultiRoute, RToken, findMultiRouteExactIn as TinesFindMultiRouteExactIn } from '@sushiswap/tines'
 import { Pool } from '../entities/Pool'
 import { convertPoolOrPairtoRPool } from './convertPoolOrPairtoRPool'

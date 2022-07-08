@@ -3,31 +3,31 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [1.0.0-canary.116](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.115...@sushiswap/core-sdk@1.0.0-canary.116) (2022-06-16)
+# [1.0.0-canary.116](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.115...@exoda/core-sdk@1.0.0-canary.116) (2022-06-16)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
-
-
-
-# [1.0.0-canary.115](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.114...@sushiswap/core-sdk@1.0.0-canary.115) (2022-06-14)
-
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.114](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.113...@sushiswap/core-sdk@1.0.0-canary.114) (2022-06-06)
+# [1.0.0-canary.115](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.114...@exoda/core-sdk@1.0.0-canary.115) (2022-06-14)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
-# [1.0.0-canary.113](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.112...@sushiswap/core-sdk@1.0.0-canary.113) (2022-06-06)
+
+
+# [1.0.0-canary.114](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.113...@exoda/core-sdk@1.0.0-canary.114) (2022-06-06)
+
+**Note:** Version bump only for package @exoda/core-sdk
+
+
+
+
+
+# [1.0.0-canary.113](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.112...@exoda/core-sdk@1.0.0-canary.113) (2022-06-06)
 
 
 ### Features
@@ -38,31 +38,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.112](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.111...@sushiswap/core-sdk@1.0.0-canary.112) (2022-06-06)
+# [1.0.0-canary.112](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.111...@exoda/core-sdk@1.0.0-canary.112) (2022-06-06)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
-
-
-
-# [1.0.0-canary.111](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.110...@sushiswap/core-sdk@1.0.0-canary.111) (2022-06-05)
-
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.110](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.109...@sushiswap/core-sdk@1.0.0-canary.110) (2022-05-15)
+# [1.0.0-canary.111](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.110...@exoda/core-sdk@1.0.0-canary.111) (2022-06-05)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
-# [1.0.0-canary.109](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.108...@sushiswap/core-sdk@1.0.0-canary.109) (2022-05-15)
+
+
+# [1.0.0-canary.110](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.109...@exoda/core-sdk@1.0.0-canary.110) (2022-05-15)
+
+**Note:** Version bump only for package @exoda/core-sdk
+
+
+
+
+
+# [1.0.0-canary.109](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.108...@exoda/core-sdk@1.0.0-canary.109) (2022-05-15)
 
 
 ### Bug Fixes
@@ -73,79 +73,79 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.108](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.107...@sushiswap/core-sdk@1.0.0-canary.108) (2022-05-13)
+# [1.0.0-canary.108](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.107...@exoda/core-sdk@1.0.0-canary.108) (2022-05-13)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
-
-
-
-# [1.0.0-canary.107](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.106...@sushiswap/core-sdk@1.0.0-canary.107) (2022-05-09)
-
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.106](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.105...@sushiswap/core-sdk@1.0.0-canary.106) (2022-05-04)
+# [1.0.0-canary.107](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.106...@exoda/core-sdk@1.0.0-canary.107) (2022-05-09)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
-
-
-
-# [1.0.0-canary.105](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.104...@sushiswap/core-sdk@1.0.0-canary.105) (2022-05-04)
-
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.104](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.103...@sushiswap/core-sdk@1.0.0-canary.104) (2022-05-04)
+# [1.0.0-canary.106](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.105...@exoda/core-sdk@1.0.0-canary.106) (2022-05-04)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
-
-
-
-# [1.0.0-canary.103](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.102...@sushiswap/core-sdk@1.0.0-canary.103) (2022-05-04)
-
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.102](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.101...@sushiswap/core-sdk@1.0.0-canary.102) (2022-05-04)
+# [1.0.0-canary.105](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.104...@exoda/core-sdk@1.0.0-canary.105) (2022-05-04)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
-
-
-
-# [1.0.0-canary.101](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.96...@sushiswap/core-sdk@1.0.0-canary.101) (2022-05-04)
-
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.96](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.95...@sushiswap/core-sdk@1.0.0-canary.96) (2022-05-04)
+# [1.0.0-canary.104](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.103...@exoda/core-sdk@1.0.0-canary.104) (2022-05-04)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
-# [1.0.0-canary.95](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.94...@sushiswap/core-sdk@1.0.0-canary.95) (2022-05-04)
+
+
+# [1.0.0-canary.103](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.102...@exoda/core-sdk@1.0.0-canary.103) (2022-05-04)
+
+**Note:** Version bump only for package @exoda/core-sdk
+
+
+
+
+
+# [1.0.0-canary.102](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.101...@exoda/core-sdk@1.0.0-canary.102) (2022-05-04)
+
+**Note:** Version bump only for package @exoda/core-sdk
+
+
+
+
+
+# [1.0.0-canary.101](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.96...@exoda/core-sdk@1.0.0-canary.101) (2022-05-04)
+
+**Note:** Version bump only for package @exoda/core-sdk
+
+
+
+
+
+# [1.0.0-canary.96](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.95...@exoda/core-sdk@1.0.0-canary.96) (2022-05-04)
+
+**Note:** Version bump only for package @exoda/core-sdk
+
+
+
+
+
+# [1.0.0-canary.95](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.94...@exoda/core-sdk@1.0.0-canary.95) (2022-05-04)
 
 
 ### Features
@@ -156,7 +156,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.94](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.93...@sushiswap/core-sdk@1.0.0-canary.94) (2022-04-16)
+# [1.0.0-canary.94](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.93...@exoda/core-sdk@1.0.0-canary.94) (2022-04-16)
 
 
 ### Features
@@ -167,7 +167,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.93](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.91...@sushiswap/core-sdk@1.0.0-canary.93) (2022-04-13)
+# [1.0.0-canary.93](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.91...@exoda/core-sdk@1.0.0-canary.93) (2022-04-13)
 
 
 ### Bug Fixes
@@ -178,111 +178,111 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.91](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.90...@sushiswap/core-sdk@1.0.0-canary.91) (2022-04-07)
+# [1.0.0-canary.91](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.90...@exoda/core-sdk@1.0.0-canary.91) (2022-04-07)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.90](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.89...@sushiswap/core-sdk@1.0.0-canary.90) (2022-03-20)
+# [1.0.0-canary.90](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.89...@exoda/core-sdk@1.0.0-canary.90) (2022-03-20)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.89](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.88...@sushiswap/core-sdk@1.0.0-canary.89) (2022-03-18)
+# [1.0.0-canary.89](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.88...@exoda/core-sdk@1.0.0-canary.89) (2022-03-18)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.88](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.87...@sushiswap/core-sdk@1.0.0-canary.88) (2022-03-18)
+# [1.0.0-canary.88](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.87...@exoda/core-sdk@1.0.0-canary.88) (2022-03-18)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.87](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.86...@sushiswap/core-sdk@1.0.0-canary.87) (2022-03-17)
+# [1.0.0-canary.87](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.86...@exoda/core-sdk@1.0.0-canary.87) (2022-03-17)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.86](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.85...@sushiswap/core-sdk@1.0.0-canary.86) (2022-03-17)
+# [1.0.0-canary.86](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.85...@exoda/core-sdk@1.0.0-canary.86) (2022-03-17)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.85](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.84...@sushiswap/core-sdk@1.0.0-canary.85) (2022-03-11)
+# [1.0.0-canary.85](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.84...@exoda/core-sdk@1.0.0-canary.85) (2022-03-11)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.84](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.83...@sushiswap/core-sdk@1.0.0-canary.84) (2022-03-11)
+# [1.0.0-canary.84](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.83...@exoda/core-sdk@1.0.0-canary.84) (2022-03-11)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.83](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.82...@sushiswap/core-sdk@1.0.0-canary.83) (2022-03-11)
+# [1.0.0-canary.83](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.82...@exoda/core-sdk@1.0.0-canary.83) (2022-03-11)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.82](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.81...@sushiswap/core-sdk@1.0.0-canary.82) (2022-03-11)
+# [1.0.0-canary.82](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.81...@exoda/core-sdk@1.0.0-canary.82) (2022-03-11)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.81](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.80...@sushiswap/core-sdk@1.0.0-canary.81) (2022-03-11)
+# [1.0.0-canary.81](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.80...@exoda/core-sdk@1.0.0-canary.81) (2022-03-11)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.80](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.79...@sushiswap/core-sdk@1.0.0-canary.80) (2022-03-10)
+# [1.0.0-canary.80](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.79...@exoda/core-sdk@1.0.0-canary.80) (2022-03-10)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.79](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.78...@sushiswap/core-sdk@1.0.0-canary.79) (2022-03-10)
+# [1.0.0-canary.79](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.78...@exoda/core-sdk@1.0.0-canary.79) (2022-03-10)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.78](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.77...@sushiswap/core-sdk@1.0.0-canary.78) (2022-03-09)
+# [1.0.0-canary.78](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.77...@exoda/core-sdk@1.0.0-canary.78) (2022-03-09)
 
 
 ### Features
@@ -293,15 +293,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.77](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.76...@sushiswap/core-sdk@1.0.0-canary.77) (2022-02-28)
+# [1.0.0-canary.77](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.76...@exoda/core-sdk@1.0.0-canary.77) (2022-02-28)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
-# [1.0.0-canary.76](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.75...@sushiswap/core-sdk@1.0.0-canary.76) (2022-02-28)
+
+
+# [1.0.0-canary.76](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.75...@exoda/core-sdk@1.0.0-canary.76) (2022-02-28)
 
 
 ### Features
@@ -312,7 +312,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.75](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.74...@sushiswap/core-sdk@1.0.0-canary.75) (2022-02-28)
+# [1.0.0-canary.75](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.74...@exoda/core-sdk@1.0.0-canary.75) (2022-02-28)
 
 
 ### Features
@@ -323,7 +323,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.74](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.73...@sushiswap/core-sdk@1.0.0-canary.74) (2022-02-28)
+# [1.0.0-canary.74](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.73...@exoda/core-sdk@1.0.0-canary.74) (2022-02-28)
 
 
 ### Features
@@ -334,7 +334,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.73](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.72...@sushiswap/core-sdk@1.0.0-canary.73) (2022-02-28)
+# [1.0.0-canary.73](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.72...@exoda/core-sdk@1.0.0-canary.73) (2022-02-28)
 
 
 ### Features
@@ -345,15 +345,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.72](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.71...@sushiswap/core-sdk@1.0.0-canary.72) (2022-02-28)
+# [1.0.0-canary.72](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.71...@exoda/core-sdk@1.0.0-canary.72) (2022-02-28)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
-# [1.0.0-canary.71](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.70...@sushiswap/core-sdk@1.0.0-canary.71) (2022-02-28)
+
+
+# [1.0.0-canary.71](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.70...@exoda/core-sdk@1.0.0-canary.71) (2022-02-28)
 
 
 ### Features
@@ -364,15 +364,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.70](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.69...@sushiswap/core-sdk@1.0.0-canary.70) (2022-02-28)
+# [1.0.0-canary.70](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.69...@exoda/core-sdk@1.0.0-canary.70) (2022-02-28)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
-# [1.0.0-canary.69](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.68...@sushiswap/core-sdk@1.0.0-canary.69) (2022-02-28)
+
+
+# [1.0.0-canary.69](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.68...@exoda/core-sdk@1.0.0-canary.69) (2022-02-28)
 
 
 ### Features
@@ -383,31 +383,31 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.68](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.67...@sushiswap/core-sdk@1.0.0-canary.68) (2022-02-24)
+# [1.0.0-canary.68](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.67...@exoda/core-sdk@1.0.0-canary.68) (2022-02-24)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
-
-
-
-# [1.0.0-canary.67](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.66...@sushiswap/core-sdk@1.0.0-canary.67) (2022-02-21)
-
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.66](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.65...@sushiswap/core-sdk@1.0.0-canary.66) (2022-02-21)
+# [1.0.0-canary.67](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.66...@exoda/core-sdk@1.0.0-canary.67) (2022-02-21)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
-# [1.0.0-canary.65](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.64...@sushiswap/core-sdk@1.0.0-canary.65) (2022-02-03)
+
+
+# [1.0.0-canary.66](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.65...@exoda/core-sdk@1.0.0-canary.66) (2022-02-21)
+
+**Note:** Version bump only for package @exoda/core-sdk
+
+
+
+
+
+# [1.0.0-canary.65](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.64...@exoda/core-sdk@1.0.0-canary.65) (2022-02-03)
 
 
 ### Features
@@ -418,87 +418,87 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.64](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.63...@sushiswap/core-sdk@1.0.0-canary.64) (2022-01-25)
+# [1.0.0-canary.64](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.63...@exoda/core-sdk@1.0.0-canary.64) (2022-01-25)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
-
-
-
-# [1.0.0-canary.63](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.62...@sushiswap/core-sdk@1.0.0-canary.63) (2022-01-24)
-
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.62](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.61...@sushiswap/core-sdk@1.0.0-canary.62) (2022-01-24)
+# [1.0.0-canary.63](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.62...@exoda/core-sdk@1.0.0-canary.63) (2022-01-24)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
-
-
-
-# [1.0.0-canary.61](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.60...@sushiswap/core-sdk@1.0.0-canary.61) (2022-01-23)
-
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.60](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.59...@sushiswap/core-sdk@1.0.0-canary.60) (2022-01-23)
+# [1.0.0-canary.62](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.61...@exoda/core-sdk@1.0.0-canary.62) (2022-01-24)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
-
-
-
-# [1.0.0-canary.59](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.58...@sushiswap/core-sdk@1.0.0-canary.59) (2022-01-23)
-
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.58](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.57...@sushiswap/core-sdk@1.0.0-canary.58) (2022-01-23)
+# [1.0.0-canary.61](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.60...@exoda/core-sdk@1.0.0-canary.61) (2022-01-23)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
-
-
-
-# [1.0.0-canary.57](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.56...@sushiswap/core-sdk@1.0.0-canary.57) (2022-01-19)
-
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.56](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.55...@sushiswap/core-sdk@1.0.0-canary.56) (2022-01-19)
+# [1.0.0-canary.60](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.59...@exoda/core-sdk@1.0.0-canary.60) (2022-01-23)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
-
-
-
-# [1.0.0-canary.55](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.54...@sushiswap/core-sdk@1.0.0-canary.55) (2022-01-19)
-
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.54](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.53...@sushiswap/core-sdk@1.0.0-canary.54) (2022-01-18)
+# [1.0.0-canary.59](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.58...@exoda/core-sdk@1.0.0-canary.59) (2022-01-23)
+
+**Note:** Version bump only for package @exoda/core-sdk
+
+
+
+
+
+# [1.0.0-canary.58](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.57...@exoda/core-sdk@1.0.0-canary.58) (2022-01-23)
+
+**Note:** Version bump only for package @exoda/core-sdk
+
+
+
+
+
+# [1.0.0-canary.57](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.56...@exoda/core-sdk@1.0.0-canary.57) (2022-01-19)
+
+**Note:** Version bump only for package @exoda/core-sdk
+
+
+
+
+
+# [1.0.0-canary.56](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.55...@exoda/core-sdk@1.0.0-canary.56) (2022-01-19)
+
+**Note:** Version bump only for package @exoda/core-sdk
+
+
+
+
+
+# [1.0.0-canary.55](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.54...@exoda/core-sdk@1.0.0-canary.55) (2022-01-19)
+
+**Note:** Version bump only for package @exoda/core-sdk
+
+
+
+
+
+# [1.0.0-canary.54](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.53...@exoda/core-sdk@1.0.0-canary.54) (2022-01-18)
 
 
 ### Features
@@ -509,7 +509,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.53](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.52...@sushiswap/core-sdk@1.0.0-canary.53) (2022-01-18)
+# [1.0.0-canary.53](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.52...@exoda/core-sdk@1.0.0-canary.53) (2022-01-18)
 
 
 ### Features
@@ -520,7 +520,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.52](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.51...@sushiswap/core-sdk@1.0.0-canary.52) (2022-01-17)
+# [1.0.0-canary.52](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.51...@exoda/core-sdk@1.0.0-canary.52) (2022-01-17)
 
 
 ### Features
@@ -531,15 +531,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.51](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.50...@sushiswap/core-sdk@1.0.0-canary.51) (2022-01-17)
+# [1.0.0-canary.51](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.50...@exoda/core-sdk@1.0.0-canary.51) (2022-01-17)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
-# [1.0.0-canary.50](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.49...@sushiswap/core-sdk@1.0.0-canary.50) (2022-01-17)
+
+
+# [1.0.0-canary.50](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.49...@exoda/core-sdk@1.0.0-canary.50) (2022-01-17)
 
 
 ### Bug Fixes
@@ -550,17 +550,17 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
-# [1.0.0-canary.49](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.48...@sushiswap/core-sdk@1.0.0-canary.49) (2022-01-17)
+# [1.0.0-canary.49](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.48...@exoda/core-sdk@1.0.0-canary.49) (2022-01-17)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
-
-
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
-# [1.0.0-canary.48](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.47...@sushiswap/core-sdk@1.0.0-canary.48) (2022-01-17)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+
+# [1.0.0-canary.48](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.47...@exoda/core-sdk@1.0.0-canary.48) (2022-01-17)
+
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
@@ -568,7 +568,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.47 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
@@ -576,7 +576,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.46 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
@@ -584,15 +584,15 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.45 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
 
 
-# [1.0.0-canary.44](https://github.com/sushiswap/sdk/compare/@sushiswap/core-sdk@1.0.0-canary.43...@sushiswap/core-sdk@1.0.0-canary.44) (2022-01-14)
+# [1.0.0-canary.44](https://github.com/sushiswap/sdk/compare/@exoda/core-sdk@1.0.0-canary.43...@exoda/core-sdk@1.0.0-canary.44) (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
@@ -600,7 +600,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.43 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
@@ -608,7 +608,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.42 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
@@ -616,7 +616,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.41 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
@@ -624,7 +624,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.40 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
@@ -643,7 +643,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.38 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
 
 
 
@@ -651,4 +651,4 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # 1.0.0-canary.37 (2022-01-14)
 
-**Note:** Version bump only for package @sushiswap/core-sdk
+**Note:** Version bump only for package @exoda/core-sdk
