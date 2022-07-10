@@ -4,5 +4,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "rootDir": "./src",
+    "resolveJsonModule": true,
+    "noImplicitAny": false
   }
 }

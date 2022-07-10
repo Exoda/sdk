@@ -1,5 +1,5 @@
 {
-  "name": "@sushiswap/tines",
+  "name": "@exoda/tines",
   "version": "1.0.0-canary.88",
   "license": "MIT",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
   ],
   "module": "dist/tines.esm.js",
   "repository": {
-    "url": "sushiswap/sdk",
+    "url": "exoda/sdk",
     "directory": "packages/tines"
   },
   "publishConfig": {
@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@ethersproject/bignumber": "^5.4.0",
-    "@sushiswap/core-sdk": "1.0.0-canary.108"
+    "@exoda/core-sdk": "1.0.0-canary.108"
   },
   "devDependencies": {
     "@types/seedrandom": "^3.0.1",

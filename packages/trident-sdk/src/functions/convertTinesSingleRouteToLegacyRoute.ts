@@ -1,9 +1,9 @@
-import { Currency, Pair, Route } from '@sushiswap/core-sdk'
+import { Currency, Pair, Route } from '@exoda/core-sdk'
 import {
 
   MultiRoute,
 
-} from '@sushiswap/tines'
+} from '@exoda/tines'
 
 export function convertTinesSingleRouteToLegacyRoute<TInput extends Currency, TOutput extends Currency>(
   route: MultiRoute,

@@ -1,5 +1,5 @@
 {
-  "name": "@sushiswap/limit-order-sdk",
+  "name": "@exoda/limit-order-sdk",
   "version": "1.0.0-canary.89",
   "license": "MIT",
   "main": "dist/index.js",
@@ -9,7 +9,7 @@
   ],
   "module": "dist/limit-order-sdk.esm.js",
   "repository": {
-    "url": "sushiswap/sdk",
+    "url": "exoda/sdk",
     "directory": "packages/limit-order-sdk"
   },
   "publishConfig": {
@@ -31,7 +31,7 @@
     "@ethersproject/experimental": "^5.4.0",
     "@ethersproject/signing-key": "^5.4.0",
     "@ethersproject/transactions": "^5.4.0",
-    "@sushiswap/core-sdk": "1.0.0-canary.108",
+    "@exoda/core-sdk": "1.0.0-canary.108",
     "eip-712": "^0.4.0",
     "isomorphic-unfetch": "^3.0.0"
   },

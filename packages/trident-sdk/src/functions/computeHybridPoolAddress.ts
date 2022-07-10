@@ -1,4 +1,4 @@
-import { JSBI, Token } from '@sushiswap/core-sdk'
+import { JSBI, Token } from '@exoda/core-sdk'
 import { Fee } from '../enums/Fee'
 import { computePoolInitCodeHash } from './computePoolInitCodeHash'
 import { defaultAbiCoder } from '@ethersproject/abi'

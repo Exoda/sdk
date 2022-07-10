@@ -1,6 +1,6 @@
-import { JSBI, Rebase, ZERO, maximum, minimum, toElastic, Token } from '@sushiswap/core-sdk'
+import { JSBI, Rebase, ZERO, maximum, minimum, toElastic, Token } from '@exoda/core-sdk'
 import { accrue, accrueTotalAssetWithFee, interestAccrue, takeFee, computePairAddress } from '../functions'
-import { toAmount, toShare } from '@sushiswap/bentobox-sdk'
+import { toAmount, toShare } from '@exoda/bentobox-sdk'
 
 import { AccrueInfo } from '../interfaces'
 
