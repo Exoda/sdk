@@ -1,6 +1,6 @@
 {
   "name": "@exoda/kashi-sdk",
-  "version": "1.0.0-viper.80",
+  "version": "1.0.0-viper.80a",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
