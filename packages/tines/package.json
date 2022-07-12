@@ -1,6 +1,6 @@
 {
   "name": "@exoda/tines",
-  "version": "1.0.0-canary.88",
+  "version": "1.0.0-viper.88",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@ethersproject/bignumber": "^5.4.0",
-    "@exoda/core-sdk": "1.0.0-canary.108"
+    "@exoda/core-sdk": "1.0.0-viper.108"
   },
   "devDependencies": {
     "@types/seedrandom": "^3.0.1",

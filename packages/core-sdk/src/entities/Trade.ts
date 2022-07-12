@@ -12,6 +12,7 @@ import { TradeType } from '../enums/TradeType'
 import { computePriceImpact } from '../functions/computePriceImpact'
 import invariant from 'tiny-invariant'
 import { sortedInsert } from '../functions/sortedInsert'
+import { InsufficientInputAmountError, InsufficientReservesError } from 'src/errors'
 
 // minimal interface so the input output comparator may be shared across types
 interface InputOutput<TInput extends Currency, TOutput extends Currency> {
@@ -251,7 +252,9 @@ export class Trade<TInput extends Currency, TOutput extends Currency, TTradeType
         ;[amountOut] = pair.getOutputAmount(amountIn)
       } catch (error) {
         // input too low
-        if (error.isInsufficientInputAmountError) {
+        const typederror = error as InsufficientInputAmountError;
+        if (typederror?.isInsufficientInputAmountError)
+        {
           continue
         }
         throw error
@@ -345,7 +348,9 @@ export class Trade<TInput extends Currency, TOutput extends Currency, TTradeType
         ;[amountIn] = pair.getInputAmount(amountOut)
       } catch (error) {
         // not enough liquidity in this pair
-        if (error.isInsufficientReservesError) {
+        const typedError = error as InsufficientReservesError;
+        if (typedError?.isInsufficientReservesError)
+        {
           continue
         }
         throw error
