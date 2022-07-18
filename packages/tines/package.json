@@ -1,6 +1,6 @@
 {
   "name": "@exoda/tines",
-  "version": "1.0.0-viper.88a",
+  "version": "1.0.0-viper.88c",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -27,7 +27,7 @@
   },
   "dependencies": {
     "@ethersproject/bignumber": "^5.4.0",
-    "@exoda/core-sdk": "1.0.0-viper.108a"
+    "@exoda/core-sdk": "1.0.0-viper.108c"
   },
   "devDependencies": {
     "@types/seedrandom": "^3.0.1",
