@@ -1,6 +1,6 @@
 {
   "name": "@exoda/limit-order-sdk",
-  "version": "1.0.0-viper.89a",
+  "version": "1.0.0-viper.89c",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -31,7 +31,7 @@
     "@ethersproject/experimental": "^5.4.0",
     "@ethersproject/signing-key": "^5.4.0",
     "@ethersproject/transactions": "^5.4.0",
-    "@exoda/core-sdk": "1.0.0-viper.108a",
+    "@exoda/core-sdk": "1.0.0-viper.108c",
     "eip-712": "^0.4.0",
     "isomorphic-unfetch": "^3.0.0"
   },
