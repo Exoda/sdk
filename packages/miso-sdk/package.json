@@ -1,6 +1,6 @@
 {
   "name": "@exoda/miso-sdk",
-  "version": "1.0.0-viper.78a",
+  "version": "1.0.0-viper.78c",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
