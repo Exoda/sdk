@@ -1,6 +1,6 @@
 {
   "name": "@exoda/trident-sdk",
-  "version": "1.0.0-viper.117a",
+  "version": "1.0.0-viper.117c",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -26,8 +26,8 @@
   "dependencies": {
     "@ethersproject/abi": "^5.4.0",
     "@ethersproject/bignumber": "^5.4.0",
-    "@exoda/core-sdk": "1.0.0-viper.108a",
-    "@exoda/tines": "1.0.0-viper.88a",
+    "@exoda/core-sdk": "1.0.0-viper.108c",
+    "@exoda/tines": "1.0.0-viper.88c",
     "@sushiswap/trident": "1.0.0-canary.38",
     "tiny-invariant": "^1.1.0",
     "trident-preview": "npm:@sushiswap/trident@1.0.0-canary.36"
