@@ -1,6 +1,6 @@
 {
   "name": "@exoda/core-sdk",
-  "version": "1.0.0-viper.108d",
+  "version": "1.0.0-viper.108f",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
