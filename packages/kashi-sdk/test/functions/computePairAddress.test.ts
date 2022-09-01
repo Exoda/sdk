@@ -24,6 +24,6 @@ describe('computePoolAddress', () => {
       address,
     })
 
-    expect(address).toEqual('0xB7b45754167d65347C93F3B28797887b4b6cd2F3')
+    expect(address).toEqual('0x4757841Cc6B3ea54169C2ce0f066c08108Fc9D2f')
   })
 })
