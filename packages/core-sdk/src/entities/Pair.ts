@@ -1,4 +1,4 @@
-import { FACTORY_ADDRESS, FIVE, MINIMUM_LIQUIDITY, ONE, ZERO, _1000, _997 } from '../constants'
+import { FACTORY_ADDRESS, WNATIVE, FIVE, MINIMUM_LIQUIDITY, ONE, ZERO, _1000, _997 } from '../constants'
 import { InsufficientInputAmountError, InsufficientReservesError } from '../errors'
 
 import { BigintIsh } from '../types'
@@ -30,12 +30,18 @@ export class Pair {
       currencyAmounts[0].currency.chainId,
       Pair.getAddress(currencyAmounts[0].currency, currencyAmounts[1].currency),
       18,
-      'UNI-V2',
-      'Uniswap V2'
+      "ENERGY",
+      Pair.getName(currencyAmountA.currency.isToken ? currencyAmountA.currency : WNATIVE[this.chainId],
+        currencyAmountB.currency.isToken ? currencyAmountB.currency : WNATIVE[this.chainId])
     )
     this.tokenAmounts = currencyAmounts as [CurrencyAmount<Token>, CurrencyAmount<Token>]
   }
 
+
+  public static getName(tokenA: Token, tokenB: Token): string {
+    const [token0, token1] = tokenA.sortsBefore(tokenB) ? [tokenA, tokenB] : [tokenB, tokenA] // does safety checks
+    return `${token0.symbol}/${token1.symbol} Plasma`;
+  }
   /**
    * Returns true if the token is either token0 or token1
    * @param token to check
