@@ -1,6 +1,6 @@
 {
   "name": "@exoda/limit-order-sdk",
-  "version": "1.0.0-viper.89h",
+  "version": "1.0.0-viper.89g3",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
