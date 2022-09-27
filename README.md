@@ -5,6 +5,7 @@
 - Yarn v3 (If unfamilair consult https://yarnpkg.com/getting-started/install to get started and familiarise yourself)
 - Node v14 and above
 
+## Build and publish
 yarn workspace @exoda/core-sdk build
 yarn workspace @exoda/core-sdk publish
 yarn workspace @exoda/bentobox-sdk upgrade @exoda/core-sdk
