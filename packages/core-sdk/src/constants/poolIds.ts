@@ -2,9 +2,9 @@ import { PoolIdMap } from '../types'
 import { ChainId } from '../enums'
 
 export const FERMION_POOLID: PoolIdMap = {
-    [ChainId.ETHEREUM]: 8,
-    [ChainId.ROPSTEN]: 8,
-    [ChainId.RINKEBY]: 8,
-    [ChainId.GÖRLI]: 8,
-    [ChainId.KOVAN]: 8,
+    [ChainId.ETHEREUM]: 5,
+    [ChainId.ROPSTEN]: 5,
+    [ChainId.RINKEBY]: 5,
+    [ChainId.GÖRLI]: 5,
+    [ChainId.KOVAN]: 5,
   }
