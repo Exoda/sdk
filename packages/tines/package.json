@@ -1,6 +1,6 @@
 {
   "name": "@exoda/tines",
-  "version": "1.0.0-viper.88s",
+  "version": "1.0.0-viper.88t",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
