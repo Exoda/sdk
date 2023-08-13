@@ -1,6 +1,6 @@
 {
   "name": "@exoda/bentobox-sdk",
-  "version": "1.0.0-viper.89r",
+  "version": "1.0.0-viper.89s",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -24,7 +24,7 @@
     "prepublishOnly": "npx tsdx build"
   },
   "dependencies": {
-    "@exoda/core-sdk": "1.0.0-viper.108r"
+    "@exoda/core-sdk": "1.0.0-viper.108s"
   },
   "devDependencies": {
     "tsdx": "^0.14.1"
