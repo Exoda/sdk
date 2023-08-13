@@ -30,5 +30,7 @@ export enum ChainId {
   TELOS = 40,
   HARDHAT = 31337,
   MOONBEAM = 1284,
-  OPTIMISM = 10
+  OPTIMISM = 10,
+  BASE_GOERLI = 84531,
+  BASE = 8453
 }

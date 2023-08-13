@@ -7,4 +7,6 @@ export const FERMION_POOLID: PoolIdMap = {
     [ChainId.RINKEBY]: 5,
     [ChainId.GÖRLI]: 5,
     [ChainId.KOVAN]: 5,
+    [ChainId.BASE]: 0,
+    [ChainId.BASE_GOERLI]: 0,
   }

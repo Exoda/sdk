@@ -6,6 +6,8 @@ import { Token } from '../entities/Token'
 
 export const USDC: TokenMap = {
   [ChainId.ETHEREUM]: new Token(ChainId.ETHEREUM, USDC_ADDRESS[ChainId.ETHEREUM], 6, 'USDC', 'USD Coin'),
+  [ChainId.BASE]: new Token(ChainId.BASE, USDC_ADDRESS[ChainId.BASE], 6, 'USDC', 'USD Coin'),
+  [ChainId.BASE_GOERLI]: new Token(ChainId.BASE_GOERLI, USDC_ADDRESS[ChainId.BASE_GOERLI], 6, 'USDC', 'USD Coin'),
   [ChainId.ROPSTEN]: new Token(ChainId.ROPSTEN, USDC_ADDRESS[ChainId.ROPSTEN], 6, 'USDC', 'USD Coin'),
   [ChainId.GÖRLI]: new Token(ChainId.GÖRLI, USDC_ADDRESS[ChainId.GÖRLI], 6, 'USDC', 'USD Coin'),
   [ChainId.KOVAN]: new Token(ChainId.KOVAN, USDC_ADDRESS[ChainId.KOVAN], 6, 'USDC', 'USD Coin'),
@@ -32,6 +34,8 @@ export const USD: TokenMap = {
 
 export const WETH9: TokenMap = {
   [ChainId.ETHEREUM]: new Token(ChainId.ETHEREUM, WETH9_ADDRESS[ChainId.ETHEREUM], 18, 'WETH', 'Wrapped Ether'),
+  [ChainId.BASE]: new Token(ChainId.BASE, WETH9_ADDRESS[ChainId.BASE], 18, 'WETH', 'Wrapped Ether'),
+  [ChainId.BASE_GOERLI]: new Token(ChainId.BASE_GOERLI, WETH9_ADDRESS[ChainId.BASE_GOERLI], 18, 'WETH', 'Wrapped Ether'),
   [ChainId.ROPSTEN]: new Token(ChainId.ROPSTEN, WETH9_ADDRESS[ChainId.ROPSTEN], 18, 'WETH', 'Wrapped Ether'),
   [ChainId.RINKEBY]: new Token(ChainId.RINKEBY, WETH9_ADDRESS[ChainId.RINKEBY], 18, 'WETH', 'Wrapped Ether'),
   [ChainId.GÖRLI]: new Token(ChainId.GÖRLI, WETH9_ADDRESS[ChainId.GÖRLI], 18, 'WETH', 'Wrapped Ether'),
@@ -61,6 +65,8 @@ export const WETH9: TokenMap = {
 
 export const WNATIVE: TokenMap = {
   [ChainId.ETHEREUM]: WETH9[ChainId.ETHEREUM],
+  [ChainId.BASE]: WETH9[ChainId.BASE],
+  [ChainId.BASE_GOERLI]: WETH9[ChainId.BASE_GOERLI],
   [ChainId.ROPSTEN]: WETH9[ChainId.ROPSTEN],
   [ChainId.RINKEBY]: WETH9[ChainId.RINKEBY],
   [ChainId.GÖRLI]: WETH9[ChainId.GÖRLI],
@@ -148,6 +154,8 @@ export const WNATIVE: TokenMap = {
 
 export const SUSHI: ChainTokenMap = {
   [ChainId.ETHEREUM]: new Token(ChainId.ETHEREUM, SUSHI_ADDRESS[ChainId.ETHEREUM], 18, 'EXOFI', 'Fermion'),
+  [ChainId.BASE]: new Token(ChainId.BASE, SUSHI_ADDRESS[ChainId.BASE], 18, 'EXOFI', 'Fermion'),
+  [ChainId.BASE_GOERLI]: new Token(ChainId.BASE_GOERLI, SUSHI_ADDRESS[ChainId.BASE_GOERLI], 18, 'EXOFI', 'Fermion'),
   [ChainId.ROPSTEN]: new Token(ChainId.ROPSTEN, SUSHI_ADDRESS[ChainId.ROPSTEN], 18, 'EXOFI', 'Fermion'),
   [ChainId.RINKEBY]: new Token(ChainId.RINKEBY, SUSHI_ADDRESS[ChainId.RINKEBY], 18, 'EXOFI', 'Fermion'),
   [ChainId.GÖRLI]: new Token(ChainId.GÖRLI, SUSHI_ADDRESS[ChainId.GÖRLI], 18, 'EXOFI', 'Fermion'),

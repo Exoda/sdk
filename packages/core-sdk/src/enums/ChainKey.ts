@@ -30,4 +30,6 @@ export enum ChainKey {
   XDAI = 'xdai',
   MOONBEAM = 'moonbeam',
   OPTIMISM = 'optimism',
+  BASE_GOERLI = 'base-goerli',
+  BASE = 'base'
 }

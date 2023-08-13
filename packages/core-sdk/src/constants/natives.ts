@@ -50,4 +50,6 @@ export const NATIVE: NativeMap = {
   [ChainId.TELOS]: Telos.onChain(ChainId.TELOS),
   [ChainId.MOONBEAM]: Glmr.onChain(ChainId.MOONBEAM),
   [ChainId.OPTIMISM]: Ether.onChain(ChainId.OPTIMISM),
+  [ChainId.BASE_GOERLI]: Ether.onChain(ChainId.BASE_GOERLI),
+  [ChainId.BASE]: Ether.onChain(ChainId.BASE)
 }
